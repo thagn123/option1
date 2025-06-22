@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+
+# Log files
+*.log
+*.txt
+
+# Video files
+*.mp4
+
+# Model weights
+*.pt
+
+# IDE files
+.idea/
+.vscode/
+
+# __pycache__
+__pycache__/
+
+# Others
+*.pyc
+*.pyo
