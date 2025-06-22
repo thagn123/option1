@@ -94,3 +94,8 @@ Southeast (↘)	[292.5°, 337.5°)
 color = (0, 0, 255) if is_wrong else (0, 255, 0)
 cv2.circle(frame, (int(cx), int(cy)), 5, color, -1)
 ```
+### 💻 Cách chạy
+
+```
+python Detect_object.py
+```
